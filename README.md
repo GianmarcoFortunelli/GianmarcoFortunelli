@@ -8,7 +8,7 @@
   </p>
   <p>
     Over the years, I’ve worked on projects ranging from designing a fully pipelined DLX processor to implementing navigation algorithms on microcontrollers.  
-    I’ve also led the electronics division of <strong>RoboTO</strong> 🤖, competing in the DJI Robomaster challenge in San Diego.
+    I’ve also led the electronics division of <strong>RoboTO</strong> 🤖, competing in the DJI Robomaster North America competition.
   </p>
   <p>
     Outside the lab, you’ll find me running long distances 🏃‍♂️ (I co-founded the Polito Running Club with 1500+ members).
