@@ -18,14 +18,7 @@
   </p>
 </div>
 
----
 
-### 🚀 Highlights
-- **DLX Processor (RTL)** — Designed and implemented a fully pipelined DLX processor with complete ISA, branch prediction, hazard management, and windowed register file.  
-- **PACMAN Robot Navigation** — Deployed the A* algorithm on NXP LPC1768 microcontroller for autonomous pathfinding.  
-- **FPGA-based Agro-Tech Sensor** — Developed complex ASM control logic for an FPGA-based digital sensor for agricultural applications.  
-
----
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
