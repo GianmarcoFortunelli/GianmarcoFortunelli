@@ -18,8 +18,6 @@
   </p>
 </div>
 
-
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
   <img width="12" />
