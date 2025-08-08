@@ -32,9 +32,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="30" alt="vhdl logo" />
+  <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" height="30" alt="vhdl logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tcl/FF6600" height="30" alt="tcl logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tcl-powered.svg/1024px-Tcl-powered.svg.png" height="30" alt="tcl logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
