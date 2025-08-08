@@ -4,17 +4,17 @@
 
   <p>
     I’m currently pursuing my Master’s in Electronics Engineering at Politecnico di Torino, specializing in embedded systems.  
-    My passion lies in computer architecture and how hardware enables computation — I love exploring how low-level design choices impact performance and efficiency.
+    My passion lies in computer architecture and how hardware enables computation — I love exploring how low-level design choices impact performance and efficiency 🔬.
   </p>
   <p>
     Over the years, I’ve worked on projects ranging from designing a fully pipelined DLX processor to implementing navigation algorithms on microcontrollers.  
-    I’ve also led the electronics division of <strong>RoboTO</strong>, competing in the DJI Robomaster challenge in San Diego.
+    I’ve also led the electronics division of <strong>RoboTO</strong> 🤖, competing in the DJI Robomaster challenge in San Diego.
   </p>
   <p>
-    Outside the lab, you’ll find me running long distances (I co-founded the Polito Running Club with 1500+ members 🏃‍♂️), practicing endurance sports, and always looking for new challenges that blend technology, teamwork, and innovation.
+    Outside the lab, you’ll find me running long distances 🏃‍♂️ (I co-founded the Polito Running Club with 1500+ members).
   </p>
   <p>
-    Feel free to reach out — I’m always up for collaborating on exciting tech projects!
+    Feel free to reach out — I’m always up for collaborating on exciting tech projects 📬.
   </p>
 </div>
 
@@ -24,7 +24,6 @@
 - **DLX Processor (RTL)** — Designed and implemented a fully pipelined DLX processor with complete ISA, branch prediction, hazard management, and windowed register file.  
 - **PACMAN Robot Navigation** — Deployed the A* algorithm on NXP LPC1768 microcontroller for autonomous pathfinding.  
 - **FPGA-based Agro-Tech Sensor** — Developed complex ASM control logic for an FPGA-based digital sensor for agricultural applications.  
-- **RoboTO Electronics Lead** — Led the electronics division, developing a supercapacitor unit to boost robot performance for the DJI Robomaster competition.  
 
 ---
 
@@ -33,7 +32,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="30" alt="vhdl logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tcl/FF6600" height="30" alt="tcl logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
