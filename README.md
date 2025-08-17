@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Gianmarco Fortunelli and I'm an Electronics Engineer</h2>
+<h2 align="center">Hi! I'm Gianmarco and I'm an Electronic Engineer</h2>
 
 <div align="center">
 
